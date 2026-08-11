@@ -54,7 +54,39 @@ A full-stack accommodation marketplace built with Angular and ASP.NET Core.
 [View Project](YOUR_SMARTSTAY_REPOSITORY_URL)
 
 ---
+### 🛍️ ODEN STORE
 
+An ASP.NET Core MVC e-commerce application for sportswear products, featuring secure authentication, shopping cart functionality, customer reviews, inventory management, and role-protected administration.
+
+**Key Engineering Highlights:**
+
+- ASP.NET Core MVC architecture with Razor Views
+- ASP.NET Core Identity authentication and account management
+- Email confirmation and password recovery workflows
+- Role-based authorization with a dedicated Admin policy
+- Entity Framework Core with SQL Server
+- Product catalog with category-based browsing
+- Shopping cart with stock-aware quantity validation
+- Product inventory and discounted-price validation
+- Admin product and category management
+- Secure product image upload and validation
+- Customer review submission and display
+- Contact form with SQL Server persistence
+- Rate limiting for authentication, reviews, and contact submissions
+- Global anti-forgery protection
+- Secure authentication cookie configuration
+- SMTP email delivery using MailKit
+- EF Core migrations and database constraints
+- Refactored application startup using extension methods and dedicated infrastructure components
+
+**Tech Stack**
+
+`.NET 10` `ASP.NET Core MVC` `C#` `Entity Framework Core`
+`SQL Server` `ASP.NET Core Identity` `Razor` `Bootstrap` `MailKit`
+
+[View ODEN STORE](https://github.com/ibrahimelsaid01/ODEN-STORE)
+
+---
 ### 🎮 GameZone
 
 An ASP.NET Core MVC game catalog and management platform built using a layered service architecture.
