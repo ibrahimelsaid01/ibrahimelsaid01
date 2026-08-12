@@ -47,11 +47,10 @@ A full-stack accommodation marketplace built with Angular and ASP.NET Core.
 
 **Tech Stack**
 
-`Angular` `TypeScript` `RxJS` `ASP.NET Core` `C#`  
+`Angular` `TypeScript` `RxJS` `ASP.NET Core` `C#`
 `Entity Framework Core` `SQL Server` `JWT` `Stripe` `Cloudinary`
 
-<!-- Replace with your repository URL -->
-[View Project](YOUR_SMARTSTAY_REPOSITORY_URL)
+[View SmartStay](https://github.com/ibrahimelsaid01/SmartStay)
 
 ---
 ### 🛍️ ODEN STORE
