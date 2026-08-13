@@ -129,7 +129,7 @@ An ASP.NET Core MVC game catalog and management platform built using a layered s
 `ASP.NET Core MVC` `C#` `Entity Framework Core`  
 `SQL Server` `Razor` `Bootstrap` `jQuery`
 
-[View GameZone]([https://github.com/ibrahimelsaid01/GameZone]
+[View GameZone](https://github.com/ibrahimelsaid01/GameZone)
 
 ---
 
